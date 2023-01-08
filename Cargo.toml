@@ -6,3 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+buttplug = "7.0.0"
+twitter-v2 = "0.1.8"
